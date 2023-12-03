@@ -25,6 +25,12 @@
     "mocha-multi": "^1.1.0"
   },
   "dependencies": {
-    "chai-fs": "^2.0.0"
+    "abab": "^2.0.6",
+    "chai-fs": "^2.0.0",
+    "debug": "^4.3.4",
+    "har-validator": "^5.1.5",
+    "mkdirp": "^3.0.1",
+    "request": "^2.88.2",
+    "uuid": "^9.0.1"
   }
 }
